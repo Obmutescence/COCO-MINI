@@ -1,0 +1,1 @@
+`COCO-MINI` is a subset of the 🔍COCO dataset for 🤖debugging, which only has 80+79 🖼️images.
